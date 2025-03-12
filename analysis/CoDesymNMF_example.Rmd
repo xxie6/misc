@@ -8,7 +8,7 @@ editor_options:
 ---
 
 # Introduction
-This is an example of how to run coordinate descent symNMF (CoDEsymNMF).
+This is an example of how to run coordinate descent symNMF (CoDesymNMF).
 
 ```{r}
 library(ggplot2)
